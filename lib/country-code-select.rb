@@ -1,5 +1,3 @@
-require "country_code_select/version"
-
 module ActionView
   module Helpers
     module FormOptionsHelper
