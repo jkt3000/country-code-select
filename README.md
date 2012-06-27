@@ -6,7 +6,7 @@ A country-select compatible country selector helper which uses ISO country codes
 
 Add this line to your application's Gemfile:
 
-    gem 'country_code_select'
+    gem 'country-code-select'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install country_code_select
+    $ gem install country-code-select
 
 ## Usage
 
